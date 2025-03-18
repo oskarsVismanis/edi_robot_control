@@ -1,0 +1,10 @@
+std_msgs/String object
+Embedding embedding
+---
+geometry_msgs/Pose centre_pose
+
+#obsolete
+geometry_msgs/Point centroid
+#float32[] seg_float
+std_msgs/Float32MultiArray seg_float
+std_msgs/String seg_str

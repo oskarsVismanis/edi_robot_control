@@ -1,0 +1,8 @@
+# Service for sending image segment to grasp pose detection and returning a Pose
+Embedding embedding
+
+#obsolete
+std_msgs/String seg_str
+#float64[] seg
+---
+geometry_msgs/Pose pose
